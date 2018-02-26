@@ -1,0 +1,10 @@
+com\howtographql\hackernew\query\Mutation.class
+com\howtographql\hackernew\domain\AuthData.class
+com\howtographql\hackernew\repository\UserRepository.class
+com\howtographql\hackernew\domain\User.class
+com\howtographql\hackernew\repository\LinkRepository.class
+com\howtographql\hackernew\domain\Link.class
+com\howtographql\hackernew\resolver\SigninResolver.class
+com\howtographql\hackernew\domain\SigninPayload.class
+com\howtographql\hackernew\query\Query.class
+com\howtographql\hackernew\GraphQLEndpoint.class
